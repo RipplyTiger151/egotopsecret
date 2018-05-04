@@ -1,7 +1,9 @@
 # egotopsecret
 
 Server Load Event
+
 --  Check for banned user
+
 --  If banned, display ban reason and length (maybe banning admin?)
 
 Player Load (maybe server load?)
